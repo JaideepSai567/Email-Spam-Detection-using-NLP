@@ -23,7 +23,8 @@ The project utilizes the **Multinomial Naive Bayes classifier** and the **CountV
     python -m venv venv
    ```
 
-- source venv/bin/activate  # On Windows, use venv\Scripts\activate
+- source venv/bin/activate  # On macOS/Linux:
+- use venv\Scripts\activate # On Windows:
 
 ## Install the required packages:
 
