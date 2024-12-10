@@ -58,9 +58,11 @@ The project utilizes the **Multinomial Naive Bayes classifier** and the **CountV
 - The trained model and vectorizer are saved using pickle, which allows for easy loading and inference during app usage.
 - Streamlit Interface
 Here’s a preview of the Streamlit app interface for spam classification:
-![Spam Classification Interface](./interface/interface_image.png)
+![Spam Classification Interface](./photos/outcome1.png)
 
 - The interface allows the user to input email content and receive a real-time classification as either spam or ham.
+![Spam Classification Interface](./photos/outcome2.png)
+- When user enters spam message
 ## Live Demo
 
 You can access the live demo of the LMS [here](https://email-spam-detection-using-nlp.streamlit.app/).
