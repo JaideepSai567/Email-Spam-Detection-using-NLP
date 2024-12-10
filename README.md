@@ -63,7 +63,7 @@ Here’s a preview of the Streamlit app interface for spam classification:
 - The interface allows the user to input email content and receive a real-time classification as either spam or ham.
 ## Live Demo
 
-You can access the live demo of the LMS [here](https://spam-mail-classification-by-nlp-and-ml-h9uzjh67wbxs59dnqq3y.streamlit.app/).
+You can access the live demo of the LMS [here](https://https://email-spam-detection-using-nlp.streamlit.app/).
 
 ## Future Work
 - Integrating deep learning models for better performance.
